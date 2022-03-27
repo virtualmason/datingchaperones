@@ -34,14 +34,12 @@
   background: #202020;
 }
 .logo {
-  width: 200px;
-  height: 200px;
 }
 .logo a {
   display: inline-block;
 }
 .logo a img {
-  max-width: 43px;
+  max-width: 200px;
 }
 .main-menu {
 }
