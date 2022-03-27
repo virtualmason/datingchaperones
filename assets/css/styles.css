@@ -34,6 +34,8 @@
   background: #202020;
 }
 .logo {
+  width: 200px;
+  height: 200px;
 }
 .logo a {
   display: inline-block;
