@@ -140,7 +140,7 @@
 
 @media (min-width: 240px) and (max-width: 479px) {
   .logo a img {
-    max-width: 32px;
+    max-width: 200px;
   }
   .next-section {
     display: none;

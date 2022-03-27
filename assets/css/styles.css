@@ -38,8 +38,13 @@
 .logo a {
   display: inline-block;
 }
+.logo2 a img {
+  max-width: 250px;
+  background: white;
+  opacity: 0.5;
+}
 .logo a img {
-  max-width: 220px;
+  max-width: 150px;
 }
 .main-menu {
 }
@@ -194,6 +199,7 @@
   width: 101%;
 }
 .slider-content h2 {
+  margin-top: 190px;
   font-size: 55px;
   color: #0c0a0a;
   font-weight: 900;
@@ -201,14 +207,15 @@
   line-height: 55px;
   margin-bottom: 10px;
   text-transform: uppercase;
-  background: #c6cfe4;
+  /* background: #c6cfe4; */
 }
 
 .slider-content h4 {
+  margin-top: 90px;
   font-size: 19px;
   font-weight: 900;
   color: #0c0a0a;
-  background: #c6cfe4;
+  /* background: #c6cfe4; */
   letter-spacing: 0em;
   line-height: 41px;
   text-transform: uppercase;
